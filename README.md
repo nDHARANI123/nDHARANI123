@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nDHARANI123
+- 👋 Hi, I’m N DHARANI
 - 👀 I’m interested in frontend
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on GSSoc 
