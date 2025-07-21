@@ -2,7 +2,7 @@
 - 👀 I’m interested in full stack development 
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on GSSoc 
-- 📫 How to reach me
+- 📫 How to reach me ndharani093@gmail.com
 - 😄 Pronouns:
 - ⚡ Fun fact: I ❤️ buges 
 
