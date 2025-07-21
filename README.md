@@ -4,13 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ndharani123&label=Profile%20views&color=0e75b6&style=flat" alt="ndharani123" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ndharani123" alt="ndharani123" /></a> </p>
-
 - 🌱 I’m currently learning **DSA**
 
 - 👯 I’m looking to collaborate on **GSSOC**
 
-- 💬 Ask me about **frontend, react,**
+- 💬 Ask me about **frontend, react**
 
 - 📫 How to reach me **ndharani093@gmail.com**
 
@@ -29,4 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ndharani123&show_icons=true&locale=en" alt="ndharani123" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ndharani123&" alt="ndharani123" /></p>
-
